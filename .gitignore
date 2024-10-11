@@ -1,0 +1,9 @@
+# Зависимости Node.js
+node_modules/
+
+# Выходные данные сборки
+.next/
+out/
+
+# Кэш npm
+.npm/
